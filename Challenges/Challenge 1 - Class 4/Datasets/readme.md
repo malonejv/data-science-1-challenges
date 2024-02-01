@@ -15,10 +15,3 @@
 
 [3. real_fake_job_posting_prediction.zip](3. real_fake_job_posting_prediction.zip)
 [Real / Fake Job Posting Prediction | Kaggle](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
-
-## Data analyst jobs
-
-[4. data_analyst_jobs.zip](4. data_analyst_jobs.zip)
-[Data Analyst Jobs | Kaggle](https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs)
-
-
